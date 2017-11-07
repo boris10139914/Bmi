@@ -6,6 +6,7 @@
     <string name="height">身高(公尺)</string>
     <string name="calculate_bmi">計算BMI</string>
     <string name="bmi_title">BMI提示</string>
-    <string name="info">資料</string>
+
     <string name="OK">OK</string>
+    <string name="info">說明</string>
 </resources>
