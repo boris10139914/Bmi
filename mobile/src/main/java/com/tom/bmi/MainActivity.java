@@ -23,15 +23,16 @@ View.OnClickListener listener = new View.OnClickListener() {
         getResources().getString(R.string.app_name);//"bmi"
         Button btnHelp = (Button)findViewById(R.id.b_help);
         btnHelp.setOnClickListener( new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {//匿名類別
-                new AlertDialog.Builder(MainActivity.this)
-                        .setTitle("xxx")
+                    @Override
+                    public void onClick(View view) {//匿名類別
+                        new AlertDialog.Builder(MainActivity.this)
+                                .setTitle("xxx")
                         .setMessage("Bmi說明:.....")
                         .setNeutralButton(R.string.OK,null
                         )
                         .show();
 
+                        
             }
         });}
 
