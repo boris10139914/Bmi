@@ -8,4 +8,5 @@
 
     <string name="OK">OK</string>
     <string name="info">info</string>
+    <string name="exrta_bmi">EXTRA_BMI</string>
 </resources>

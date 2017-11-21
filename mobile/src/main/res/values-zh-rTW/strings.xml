@@ -9,4 +9,5 @@
 
     <string name="OK">OK</string>
     <string name="info">說明</string>
+    <string name="exrta_bmi">EXTRA_BMI</string>
 </resources>
